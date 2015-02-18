@@ -6,8 +6,7 @@
 
  `drive` was originally developed by [Burcu Dogan](https://github.com/rakyll) while working on the Google Drive team.
 
-However, she no longer has the time to work on it so I am it's new maintainer.
-
+Refer to upstream for more details.
 ## Installation
 
     go get github.com/odeke-em/drive/cmd/drive
